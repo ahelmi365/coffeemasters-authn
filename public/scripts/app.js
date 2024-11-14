@@ -1,7 +1,5 @@
-import Router from './Router.js';
-import Auth from './Auth.js';
+import Router from "./Router.js";
 
 window.addEventListener("DOMContentLoaded", () => {
-    Router.init();
- } );
-
+  Router.init();
+});
